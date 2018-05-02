@@ -2,7 +2,7 @@ name: task_mgr
 description: A web app that uses AngularDart Components
 # version: 1.0.0
 # homepage: https://www.example.com
-# author: yuxuanxiu <email@example.com>
+# author: soojade <soojade@sina.com>
 
 environment:
   sdk: '>=2.0.0-dev.51.0 <2.0.0'
